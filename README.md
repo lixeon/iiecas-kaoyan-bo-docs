@@ -9,6 +9,7 @@ Last Modified: 20211009 辛丑九月初四
 
 > QQ群：总群12710658 二群181254453
 
+> 配套课程【计算机考研复试抄底厚黑学】：https://lixeon.com/courses/ucas-xgs001cd-spring2022.html
 
 > ** ⭐️ 2023！硕士统考必看【腾讯文档】中科院信工所考研抄底总群考前摸底【兄弟版】
 https://docs.qq.com/sheet/DZG1pQlhIT2tZZlFQ**
@@ -203,7 +204,7 @@ https://docs.qq.com/sheet/DZG1pQlhIT2tZZlFQ**
 
 ### 师兄的科室详解
 
-来源王道论坛：
+【重要‼️】来源王道论坛：
 
 http://www.cskaoyan.com/thread-205594-1-1.html
 
