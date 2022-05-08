@@ -23,6 +23,10 @@ https://docs.qq.com/sheet/DZG1pQlhIT2tZZlFQ**
 **本文所有数据均为曾公开资料并已作脱敏和隐私保护处理**
 
 
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/lixeon/iiecas-kaoyan-bo-docs.svg)](https://starchart.cc/lixeon/iiecas-kaoyan-bo-docs)
+
 
 # 目录
 
