@@ -714,13 +714,13 @@ CMU和普渡大学的PhD offer
 
 # 免责信息
 
-本repo由李敬（信工所2020级硕士, &lt;lixeon.lij@gmail.com&gt; ）收集整理，是为了大家能够更好地客观地全面地了解信工所。几乎所有内容均为互联网公开资料且大部分为原始资料，且均进行了隐私脱敏处理，严禁用于任何商业用途，转载请注明。
+本repo由 Jing Li（李敬，信工所2020级硕士, &lt;lixeon.lij@gmail.com&gt; ）维护，是为了大家能够更好地客观地全面地了解信工所。几乎所有内容均为互联网公开资料且大部分为原始资料，且均进行了隐私脱敏处理，转载请注明。
 
 # 许可
 
-由贡献者编写部分的许可如下，转载请注明：
+由贡献者编写部分的许可如下，
 
-[![img](https://camo.githubusercontent.com/d81c1a80f6c3d68d5f1a80b016db6802aa480411/68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792d6e632d73612f342e302f38307831352e706e67)](https://camo.githubusercontent.com/d81c1a80f6c3d68d5f1a80b016db6802aa480411/68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792d6e632d73612f342e302f38307831352e706e67) [(Creative Commons BY-NC-SA 4.0) 知识共享署名 - 非商业性使用 - 相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
 
 其他部分的版权归属于其各自的作者。资料仅供参考，有一定时效性，请自己判断其适用性。
 
