@@ -1,12 +1,14 @@
 # iiecas-kaoyan-bo-docs
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 <img src="https://img.shields.io/badge/give%20me-a%20star-green.svg">
+[![License](https://img.shields.io/github/license/lixeon/iiecas-kaoyan-bo-docs?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-[![Discord](https://img.shields.io/badge/Discord-抄底学-%235865F2?style=flat-square&logo=discord)](https://discord.gg/NePVmmFb2K)
+[![Telegram](https://img.shields.io/badge/Telegram-抄底考研-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/CDKaoYan)
+[![Discord](https://img.shields.io/badge/Discord-抄底考研-%235865F2?style=flat-square&logo=discord)](https://discord.gg/NePVmmFb2K)
 [![QQ Group](https://img.shields.io/badge/QQ%20Group-12710658-blue)](https://qm.qq.com/cgi-bin/qm/qr?k=SFhX_Qmtb4o9_2g38lN8_h7PeHLF14m-&jump_from=webapi)
 [![QQ Group](https://img.shields.io/badge/QQ%20Group-181254453-blue)](https://qm.qq.com/cgi-bin/qm/qr?k=WtzZAwgcSrFU4LgAMovEzpJ6CX57VXbY&jump_from=webapi)
 
-【抄底派教育】
+【抄底考研】
 
 中国科学院信息工程研究所考研保研考博文档资料
 
