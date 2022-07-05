@@ -14,7 +14,7 @@
 
 National Postgraduate Entrance Exam Documents of Institute of Information Engineering, Chinese Academy of Sciences.
 
-Last Modified: 20220413 壬寅三月十三
+Last Modified: 20220705 壬寅六月初七
 
 
 > 配套课程【计算机考研复试抄底厚黑学】：https://lixeon.com/courses/ucas-xgs001cd-spring2022.html
@@ -456,6 +456,7 @@ http://www.cskaoyan.com/thread-205594-1-1.html
 ![](录取情况/2021信工所统考录取情况统计-2.jpg)
 
 [2021硕士统考信工所刷高分吗.xlsx](录取情况/2021硕士统考信工所刷高分吗.xlsx)
+[2021信工所各个实验室复试的经验帖收集.pdf](复试面经/2021信工所各个实验室复试的经验帖收集.pdf)
 
 ## 2022年
 
@@ -463,6 +464,8 @@ http://www.cskaoyan.com/thread-205594-1-1.html
 ![](录取情况/2022信工所统考录取情况统计-2.png)
 
 [2022信工所考研及保研录取情况详表.xlsx](录取情况/2022信工所考研及保研录取情况详表.xlsx)
+
+**更加具体和准确的信息请见** [2022信工所生源数据及复试经历.pdf](复试面经/2022信工所生源数据及复试经历.pdf)
 
 
 # 统考硕士初试科目
