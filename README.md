@@ -14,7 +14,7 @@
 
 National Postgraduate Entrance Exam Documents of Institute of Information Engineering, Chinese Academy of Sciences.
 
-Last Modified: 20220705 壬寅六月初七
+Last Modified: 20220711 壬寅六月十三
 
 
 > 配套课程【计算机考研复试抄底厚黑学】：https://lixeon.com/courses/ucas-xgs001cd-spring2022.html
@@ -28,6 +28,22 @@ https://docs.qq.com/sheet/DZG1pQlhIT2tZZlFQ**
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/lixeon/iiecas-kaoyan-bo-docs.svg)](https://starchart.cc/lixeon/iiecas-kaoyan-bo-docs)
+
+
+***考研meme***
+
+<img src="img/meme/2021meme-4.png" width="50%">
+
+
+<img src="img/meme/2022meme.jpeg" width="100%">
+
+
+<img src="img/meme/2021meme-3.jpeg" width="50%">
+
+
+<img src="img/meme/2021meme-2.jpeg" width="80%">
+
+<img src="img/meme/2021meme-1.jpg" width="100%">
 
 
 # 目录
@@ -106,7 +122,7 @@ https://docs.qq.com/sheet/DZG1pQlhIT2tZZlFQ**
 
 2018年，信工所主办的《信息安全学报》共出版发行 6 期，并被“中国科技核心期刊目录” 收录。英文学术期刊Cybersecurity创刊，共出版3期。
 
-<img src="img/logo iie full.jpg" />
+<img src="img/logo/logo iie full.jpg" />
 
 
 
@@ -160,7 +176,7 @@ https://docs.qq.com/sheet/DZG1pQlhIT2tZZlFQ**
 
 　　（2021年11月更新）
 
-<img src="img/logo cas.png" style="zoom:80%;" />
+<img src="img/logo/logo cas.png" style="zoom:80%;" />
 
 
 
@@ -173,7 +189,7 @@ https://docs.qq.com/sheet/DZG1pQlhIT2tZZlFQ**
 
 学院秉承“科教融合、育人为本、协同创新、服务国家”的办学理念，面向网络空间安全领域国际前沿与国家发展需要，依托中国科学院信息工程研究所创新平台，发挥中国科学院综合优势，将创新研究与人才培养有机结合，形成科教融合、多学科交叉、产学研用一体化的培养体系，致力于培养理论基础扎实、视野开阔、研发能力强的中、高级多类型专业人才，旨在建设国内顶尖、国际知名的网络空间安全领域专业学院。
 
-<img src="img/logo ucasscs.png" />
+<img src="img/logo/logo ucasscs.png" />
 
 
 
@@ -213,7 +229,7 @@ https://docs.qq.com/sheet/DZG1pQlhIT2tZZlFQ**
 
 面向未来，国科大将坚持社会主义办学方向，依托怀柔综合性国家科学中心建设，聚集一流师资队伍、建设一流学科体系、产出一流创新成果、培养一流创新人才。到2020年，国科大将进入全球有影响力的一流研究型大学行列；到2035年，跻身全球一流研究型大学前列；到2050年，跻身全球顶尖创新型大学之列，为我国的高等教育和科技创新探索出一条独具特色、科教融合、协同创新的成熟道路，为中华民族伟大复兴和世界科技进步做出不可或缺的贡献。
 
-<img src="img/logo ucas.png" style="zoom:60%;" />
+<img src="img/logo/logo ucas.png" style="zoom:60%;" />
 
 
 
@@ -252,7 +268,7 @@ http://www.cskaoyan.com/thread-205594-1-1.html
 
 来源微信公众号：中国科学院大学网络空间安全学院（id: ucas-scs）
 
-<img src="img/logo ucas-scs.png" style="zoom:30%;" />
+<img src="img/logo/logo ucas-scs.png" style="zoom:20%;" />
 
 <br />
 
@@ -268,7 +284,7 @@ http://www.cskaoyan.com/thread-205594-1-1.html
 
 详情见，https://mp.weixin.qq.com/s/H_gPlBTpxrzUnRvnydx0UA
 
-<img src="img/logo sklois.jpg" style="zoom:80%;" />
+<img src="img/logo/logo sklois.jpg" style="zoom:80%;" />
 
 
 
@@ -280,7 +296,7 @@ http://www.cskaoyan.com/thread-205594-1-1.html
 
 研究室拥有实力雄厚的高水平科研及工程队伍，至2020年1月，科研人员328人，学生292人，副高级职称以上30人，是一支年轻、充满朝气的科研团队，自组建以来为我国网络空间安全做出重要贡献。在为国家网络信息安全战略提供支撑的同时，研究室注重高水平人才培养，室里聚集了中国工程院院士方滨兴院士等国内信息安全领域诸多知名专家担任客座导师，有完善的信息安全高层次人才培养体系，注重国际学术交流，力求打造引领学科的国际一流团队。同时，实验室拥有“互联网模拟和仿真研究验证平台”、“海量网络音视频信息研究验证平台”、“网络舆情分析与预警研究验证平台”、“互联网真实网络流实验测试平台”四个一流的国家级互联网信息安全科研实验平台，可为高水平人才培养提供良好的实验环境。
 
-<img src="img/logo nelist.jpg" style="zoom:80%;" />
+<img src="img/logo/logo nelist.jpg" style="zoom:80%;" />
 
 详情见，https://mp.weixin.qq.com/s/BvZZqlJeU_mXXBDumRmIQg
 
@@ -302,7 +318,7 @@ http://www.cskaoyan.com/thread-205594-1-1.html
 
 详情见，https://mp.weixin.qq.com/s/WWuYvtv22hHh_PCQC9EsSQ
 
-<img src="img/logo ss.png" style="zoom:50%;" />
+<img src="img/logo/logo ss.png" style="zoom:50%;" />
 
 
 
