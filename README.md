@@ -17,7 +17,7 @@ National Postgraduate Entrance Exam Documents of Institute of Information Engine
 Last Modified: 20220711 壬寅六月十三
 
 
-> 配套课程【计算机考研复试抄底厚黑学】：https://lixeon.com/courses/ucas-xgs001cd-spring2022.html
+> 配套课程【计算机考研复试抄底厚黑学】：https://lixeon.com/courses/ucas-xgs001cd-spring2022
 
 > ** ⭐️ 2023！硕士统考必看【腾讯文档】中科院信工所考研抄底总群考前摸底【兄弟版】
 https://docs.qq.com/sheet/DZG1pQlhIT2tZZlFQ**
