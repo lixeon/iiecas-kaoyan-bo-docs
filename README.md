@@ -8,16 +8,20 @@
 [![QQ Group](https://img.shields.io/badge/QQ%20Group-12710658-blue)](https://qm.qq.com/cgi-bin/qm/qr?k=SFhX_Qmtb4o9_2g38lN8_h7PeHLF14m-&jump_from=webapi)
 [![QQ Group](https://img.shields.io/badge/QQ%20Group-181254453-blue)](https://qm.qq.com/cgi-bin/qm/qr?k=WtzZAwgcSrFU4LgAMovEzpJ6CX57VXbY&jump_from=webapi)
 
-【抄底考研】
-
 中国科学院信息工程研究所考研保研考博文档资料
 
 National Postgraduate Entrance Exam Documents of Institute of Information Engineering, Chinese Academy of Sciences.
 
-Last Modified: 20220711 壬寅六月十三
+Last Modified: 20220720 壬寅六月廿二
 
 
-> 配套课程【计算机考研复试抄底厚黑学】：https://lixeon.com/courses/ucas-xgs001cd-spring2022.html
+【抄底學院】【中國大陸計算機考研學士後專班】
+
+<img src="img/logo/logo cdc.png" width="50%">
+
+> 歡迎加入抄底學院 https://chaodi.edu.kg/ 。 此刻打盹、你將做夢，而此刻抄底、你將圓夢。 聯系< admin@chaodi.edu.kg >申請入學，開通edu郵箱（滑稽）。
+
+> 配套课程【计算机考研复试抄底厚黑学】：https://lixeon.com/courses/ucas-xgs001cd-spring2022
 
 > ** ⭐️ 2023！硕士统考必看【腾讯文档】中科院信工所考研抄底总群考前摸底【兄弟版】
 https://docs.qq.com/sheet/DZG1pQlhIT2tZZlFQ**
@@ -44,6 +48,38 @@ https://docs.qq.com/sheet/DZG1pQlhIT2tZZlFQ**
 <img src="img/meme/2021meme-2.jpeg" width="80%">
 
 <img src="img/meme/2021meme-1.jpg" width="100%">
+
+
+```plain
+复试前博弈的这场耻辱性的大败
+已经成为了这两天信工所考研最大的话题之一
+你说博弈一次一次一次搞了多少次
+改过伐啦
+换汤不换药啊
+人家信工所也有理由说的
+我（曾经）带的是什么学生，我带的清华北大啊。
+你这批学生是什么学生啊，你叫我带
+现在学生什么水平
+就这么个成绩
+你还在探求什么新的厚黑学抄底方法
+而且还要面子，说一个一个发邮件。
+它能抄吗？！抄不了，没这个能力知道吗？
+再下去（的话）要调剂了
+调剂输完去工作，再啃老二战
+接下来没学上了
+（“另一方面来说他们是备战2023考研最早的学生”）
+哦呦，谢天谢地了
+我已经说了你这样的（本科）简历本身就没有打好基础
+你能跟我保证在考研复试这样关键的时刻它能抄底啊？
+务实一点
+我劝你们，把自己搞得抄底方法
+复试的这个理念先搞懂
+你看之前抄底的蛮好的
+你一个一个瞎鸡er博弈你搞什么你告诉我
+现在搞的直接去调剂了
+你到告诉我，怎么解释呢？
+（ ）都不要了
+```
 
 
 # 目录
