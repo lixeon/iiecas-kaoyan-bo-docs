@@ -19,6 +19,8 @@ Last Modified: 20220720 壬寅六月廿二
 
 <img src="img/logo/logo cdc.png" width="50%">
 
+<img src="img/logo/logo cdsz.png" width="80%">
+
 > 歡迎加入抄底學院 https://chaodi.edu.kg/ 。 此刻打盹、你將做夢，而此刻抄底、你將圓夢。 聯系< admin@chaodi.edu.kg >申請入學，開通edu郵箱（滑稽）。
 
 > 配套课程【计算机考研复试抄底厚黑学】：https://lixeon.com/courses/ucas-xgs001cd-spring2022
@@ -84,8 +86,6 @@ https://docs.qq.com/sheet/DZG1pQlhIT2tZZlFQ**
 
 # 目录
 
-- [iiecas-kaoyan-bo-docs](#iiecas-kaoyan-bo-docs)
-- [目录](#目录)
 - [信工所（IIE）简介](#信工所iie简介)
   - [信息工程创新研究院（中国科学院信息工程研究所）](#信息工程创新研究院中国科学院信息工程研究所)
   - [中国科学院（CAS）简介](#中国科学院cas简介)
@@ -110,8 +110,8 @@ https://docs.qq.com/sheet/DZG1pQlhIT2tZZlFQ**
 - [人数情况](#人数情况)
 - [毕业去向](#毕业去向)
 - [常见问题与建议](#常见问题与建议)
-- [新园区情况](#新园区情况)
 - [后记](#后记)
+  - [小道消息](#小道消息)
 - [贡献及感谢](#贡献及感谢)
 - [免责信息](#免责信息)
 - [许可](#许可)
@@ -738,18 +738,10 @@ CMU和普渡大学的PhD offer
    >
    > **区别：在信工所，学硕可以转博、专硕不可以，需要考博。另外，第一年集中教学时培养计划中要求学分略不同，专硕会比学说多几门课（专业英语、知识产权）**
 
+9. 新园区情况
 
+   > 地址：北京市海淀区上地街道树村路19号
 
-
-
-
-# 新园区情况
-
-地址：北京市海淀区上地街道树村路树村中街交叉口
-
-## 效果图
-
-![](img/2020信工所新园区效果图.png)
 
 # 后记
 
@@ -757,15 +749,22 @@ CMU和普渡大学的PhD offer
 
 信工所还很年轻，种种消息或多或少有一些，吾辈仍需努力。
 
+## 小道消息
+
+![](img/xdxx/xdxx_cd10c261-80b9-f01b-e447-e58a8bc62957.png)
+
+![](img/xdxx/xdxx_a24351a1-89d7-c81c-a4a1-149ff773d5de.jpg)
+
+![](img/xdxx/xdxx_4cbb6136-a558-2cbe-7f6f-a0922cf8841a.png)
+
+![](img/xdxx/xdxx_637fada3-8968-f9b7-981b-80d4cd39e9db.png)
+
+![](img/xdxx/xdxx_0797f2bd-1294-5b0f-02f2-5fe15c33cf58.png)
+
 
 # 贡献及感谢
 
 欢迎各位小伙伴积极指出错误、提出建议和参与贡献，可发issue。
-
-- 王道论坛@msmvp
-- 知乎
-- 王道论坛@yuanhaoyxb
-
 
 # 免责信息
 
