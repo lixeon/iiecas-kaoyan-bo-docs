@@ -1,20 +1,21 @@
 # iiecas-kaoyan-bo-docs
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-<img src="https://img.shields.io/badge/give%20me-a%20star-green.svg">
+<img src="https://img.shields.io/badge/Give%20Me-A%20Star-green.svg">
 [![License](https://img.shields.io/github/license/lixeon/iiecas-kaoyan-bo-docs?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 [![Telegram](https://img.shields.io/badge/Telegram-抄底考研-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/CDKaoYan)
-[![Discord](https://img.shields.io/badge/Discord-抄底考研-%235865F2?style=flat-square&logo=discord)](https://discord.gg/NePVmmFb2K)
 [![QQ Group](https://img.shields.io/badge/QQ%20Group-12710658-blue)](https://qm.qq.com/cgi-bin/qm/qr?k=SFhX_Qmtb4o9_2g38lN8_h7PeHLF14m-&jump_from=webapi)
 [![QQ Group](https://img.shields.io/badge/QQ%20Group-181254453-blue)](https://qm.qq.com/cgi-bin/qm/qr?k=WtzZAwgcSrFU4LgAMovEzpJ6CX57VXbY&jump_from=webapi)
 
 中国科学院信息工程研究所考研保研考博文档资料
 
+本文中的所有数据都曾是公开信息并已脱敏处理
+
 National Postgraduate Entrance Exam Documents of Institute of Information Engineering, Chinese Academy of Sciences.
 
-**本文所有数据均为曾公开资料并已作脱敏和隐私保护处理**
+All data in this article was once public information and has been privacy protected.
 
-Last Modified: 20220808 壬寅七月十一
+Last Modified: 20221124 壬寅十一月初一
 
 
 # 目录
@@ -51,7 +52,7 @@ Last Modified: 20220808 壬寅七月十一
 
 ---
 
-【抄底學院】【中國大陸計算機考研學士後專班】
+【抄底學院】【中國內地計算機考研學士後專班】
 
 <img src="img/logo/logo cdc.png" width="50%">
 
@@ -61,8 +62,8 @@ Last Modified: 20220808 壬寅七月十一
 
 > ⭐️ 配套课程【计算机考研复试抄底厚黑学】：https://lixeon.com/courses/ucas-xgs001cd-spring2022
 
-> ⭐️ 2023！硕士统考必看【腾讯文档】中科院信工所考研抄底总群考前摸底【兄弟版】
-https://docs.qq.com/sheet/DZG1pQlhIT2tZZlFQ
+> ⭐️ 必填【腾讯文档】中科院信工所考研考前摸底【抄底兄弟】
+https://docs.qq.com/sheet/DZG1pQlhIT2tZZlFQ?tab=dba67g
 
 ## Stargazers over time
 
