@@ -15,7 +15,7 @@ National Postgraduate Entrance Exam Documents of Institute of Information Engine
 
 All data in this article was once public information and has been privacy protected.
 
-Last Modified: 20221124 壬寅十一月初一
+Last Modified: 20230104 壬寅腊月十三
 
 
 # 目录
@@ -60,7 +60,9 @@ Last Modified: 20221124 壬寅十一月初一
 
 > 歡迎加入抄底學院 https://chaodi.edu.kg/ 。 此刻打盹、你將做夢，而此刻抄底、你將圓夢。 聯系< admin@chaodi.edu.kg >申請入學，開通edu郵箱（滑稽）。
 
-> ⭐️ 配套课程【计算机考研复试抄底厚黑学】：https://lixeon.com/courses/ucas-xgs001cd-spring2022
+> ⭐️ 配套课程【计算机考研复试抄底厚黑学2023版】：https://lixeon.com/courses/ucas-xgs001cd-spring2023
+
+> ⭐️ 配套课程【计算机考研复试抄底厚黑学2022版】：https://lixeon.com/courses/ucas-xgs001cd-spring2022
 
 > ⭐️ 必填【腾讯文档】中科院信工所考研考前摸底【抄底兄弟】
 https://docs.qq.com/sheet/DZG1pQlhIT2tZZlFQ?tab=dba67g
