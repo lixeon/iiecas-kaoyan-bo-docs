@@ -15,7 +15,7 @@ National Postgraduate Entrance Exam Documents of Institute of Information Engine
 
 All data in this article was once public information and has been privacy protected.
 
-Last Modified: 20230104 壬寅腊月十三
+Last Modified: 20230331 癸卯闰二月初十
 
 
 # 目录
@@ -73,6 +73,11 @@ https://docs.qq.com/sheet/DZG1pQlhIT2tZZlFQ?tab=dba67g
 
 
 ***考研meme***
+
+<img src="img/meme/2024meme-1.gif" width="100%">
+
+<img src="img/meme/2024meme-2.gif" width="100%">
+
 
 <img src="img/meme/2021meme-4.png" width="50%">
 
@@ -356,7 +361,7 @@ http://www.cskaoyan.com/thread-205594-1-1.html
 | 2020 |     100      |       444        |     国家线      |     204      | 0.459  |            159            |       150（4）       | 1.360  |    是    |          40/40/70/70/300           |    13    |  37/37/55/55/264   |   163    |   1.630    |               |
 | 2021 |     100      |                  |     国家线      |              |        |            164            |                      |        |    是    |          40/40/75/75/300           |    21    |  37/37/56/56/263   |          |            |               |
 | 2022 |     150      |     800        |     50/38/70/70/300      |     260   |        |            166            |                      |        |        |                     |        |  38/38/57/57/273   |          |            |               |
-
+2023 | 150 | 800 | 40/40/60/70/284 | 
 
 
 # 统考硕士指标详情
