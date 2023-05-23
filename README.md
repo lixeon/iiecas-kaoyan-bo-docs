@@ -15,7 +15,7 @@ National Postgraduate Entrance Exam Documents of Institute of Information Engine
 
 All data in this article was once public information and has been privacy protected.
 
-Last Modified: 20230331 癸卯闰二月初十
+Last Modified: 20230523 癸卯四月初五
 
 
 # 目录
@@ -52,13 +52,9 @@ Last Modified: 20230331 癸卯闰二月初十
 
 ---
 
-【抄底學院】【中國內地計算機考研學士後專班】
-
 <img src="img/logo/logo cdc.png" width="50%">
 
-<img src="img/logo/logo cdsz.png" width="80%">
-
-> 歡迎加入抄底學院 https://chaodi.edu.kg/ 。 此刻打盹、你將做夢，而此刻抄底、你將圓夢。 聯系< admin@chaodi.edu.kg >申請入學，開通edu郵箱（滑稽）。
+> 歡迎加入抄底學院 https://chaodi.edu.kg/ 【中國內地計算機考研學士後專班】此刻打盹、你將做夢，而此刻抄底、你將圓夢。 聯系< admin@chaodi.edu.kg >申請入學，開通edu郵箱（滑稽）。
 
 > ⭐️ 配套课程【计算机考研复试抄底厚黑学2023版】：https://lixeon.com/courses/ucas-xgs001cd-spring2023
 
@@ -507,7 +503,7 @@ http://www.cskaoyan.com/thread-205594-1-1.html
 
 参考王道论坛各帖
 
-[信工所各个实验室复试的经验帖收集.pdf](复试面经/信工所各个实验室复试的经验帖收集.pdf)
+⭐️ [信工所各个实验室复试的经验帖收集.pdf](复试面经/信工所各个实验室复试的经验帖收集.pdf)
 
 # 考博情况
 
@@ -655,7 +651,7 @@ CMU和普渡大学的PhD offer
 
 5. 宿舍问题
 
-   > 已基本解决
+   > 地址：北京市海淀区上地街道树村路19号
 
 6. 集中教学问题
 
@@ -669,11 +665,7 @@ CMU和普渡大学的PhD offer
 
    > 中科院的学硕和专硕区别不大（高校的区别一般比较大，培养方向和学制以及补助什么的都不同），学制都是三年，进入实验室后做的东西也是一样的，补助也差不多。
    >
-   > **区别：在信工所，学硕可以转博、专硕不可以，需要考博。另外，第一年集中教学时培养计划中要求学分略不同，专硕会比学说多几门课（专业英语、知识产权）**
-
-9. 新园区情况
-
-   > 地址：北京市海淀区上地街道树村路19号
+   > **区别：第一年集中教学时培养计划中要求学分略不同，专硕会比学说多几门课（专业英语、知识产权）**
 
 
 # 后记
