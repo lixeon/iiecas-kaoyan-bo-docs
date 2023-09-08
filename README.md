@@ -3,9 +3,17 @@
 <img src="https://img.shields.io/badge/Give%20Me-A%20Star-green.svg">
 [![License](https://img.shields.io/github/license/lixeon/iiecas-kaoyan-bo-docs?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-[![Telegram](https://img.shields.io/badge/Telegram-抄底考研-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/CDKaoYan)
-[![QQ Group](https://img.shields.io/badge/QQ%20Group-12710658-blue)](https://qm.qq.com/cgi-bin/qm/qr?k=SFhX_Qmtb4o9_2g38lN8_h7PeHLF14m-&jump_from=webapi)
-[![QQ Group](https://img.shields.io/badge/QQ%20Group-181254453-blue)](https://qm.qq.com/cgi-bin/qm/qr?k=WtzZAwgcSrFU4LgAMovEzpJ6CX57VXbY&jump_from=webapi)
+Telegram Group: https://t.me/CDKaoYan （主阵地）
+
+QQ Group 1: 12710658 （2023年6月21日中午11时许已被腾讯官方封禁、因为未给理由故不知为何封禁，经群友当事人回忆原因是有不法分子突然恶意刷屏R18低幼淫秽内容）
+
+QQ Group 2: 181254453 （第二抄底基地）（2023年9月5日中午10时许已被腾讯官方封禁、因为未给理由故不知为何封禁，经群友当事人回忆原因是有不法分子突然恶意刷屏政治敏感内容）
+
+QQ Group 3: 747527346 （抄底兔子群）
+
+QQ Group 4: 210773780 （抄底粉丝群）
+
+QQ Group 5: 291736810 （抄底五群）
 
 中国科学院信息工程研究所考研保研考博文档资料
 
@@ -15,7 +23,7 @@ National Postgraduate Entrance Exam Documents of Institute of Information Engine
 
 All data in this article was once public information and has been privacy protected.
 
-Last Modified: 20230523 癸卯四月初五
+Last Modified: 20230621 癸卯夏至五月初四
 
 
 # 目录
@@ -448,6 +456,15 @@ http://www.cskaoyan.com/thread-205594-1-1.html
 
 [2022信工所生源数据及复试经历.pdf](复试面经/2022信工所生源数据及复试经历.pdf)
 
+## 2023年
+
+![2023信工所统考录取情况统计-01](录取情况/2023信工所统考录取情况统计-01.jpg)
+![2023信工所统考录取情况统计-02](录取情况/2023信工所统考录取情况统计-02.jpg)
+![2023信工所统考录取情况统计-03](录取情况/2023信工所统考录取情况统计-03.jpg)
+
+**更加具体和准确的信息请见** 
+
+[信工所2023考研数据统计.pdf](复试面经/信工所2023考研数据统计.pdf)
 
 # 统考硕士初试科目
 
