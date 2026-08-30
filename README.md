@@ -75,17 +75,14 @@ https://zulip.thuiiif.seertechconsult.com/
 
 > 歡迎加入抄底學院 https://chaodi.edu.kg/ 【中國內地計算機考研學士後專班】此刻打盹、你將做夢，而此刻抄底、你將圓夢。 聯系< admin@chaodi.edu.kg >申請入學，開通edu郵箱（滑稽）。
 
+> ⭐️ 配套课程【计算机考研复试抄底厚黑学2024版】：https://lixeon.com/courses/ucas-xgs001cd-spring2024
+
 > ⭐️ 配套课程【计算机考研复试抄底厚黑学2023版】：https://lixeon.com/courses/ucas-xgs001cd-spring2023
 
 > ⭐️ 配套课程【计算机考研复试抄底厚黑学2022版】：https://lixeon.com/courses/ucas-xgs001cd-spring2022
 
 > ⭐️ 必填【腾讯文档】中科院信工所考研考前摸底【抄底兄弟】
 https://docs.qq.com/sheet/DZG1pQlhIT2tZZlFQ?tab=dba67g
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/lixeon/iiecas-kaoyan-bo-docs.svg)](https://starchart.cc/lixeon/iiecas-kaoyan-bo-docs)
-
 
 ***考研meme***
 
